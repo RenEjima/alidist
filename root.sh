@@ -123,6 +123,7 @@ cmake $SOURCEDIR                                                                
       -Dbuiltin_freetype=OFF                                                           \
       -Dpcre=OFF                                                                       \
       -Dbuiltin_pcre=ON                                                                \
+      -Dbuiltin_glew=ON                                                                \
       -Dsqlite=OFF                                                                     \
       $ROOT_XROOTD_FLAGS                                                               \
       $ROOT_PYTHON_FLAGS                                                               \
